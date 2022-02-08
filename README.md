@@ -6,7 +6,9 @@
 <div align = "center">
 
 <br/>
-<strong>🌱I want to be a developer🌱</strong><br><br>
+<strong>🌱I want to be a developer🌱</strong><br><br><br>
+ - I'm learning Java and Spring right now.
+
 👩‍💻 Portfolio : x <br>
 📝 Blog : x <br>
 📫 Contact & email : fomalhaut612@naver.com<br><br>
@@ -20,7 +22,7 @@
 <!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123)
  --> 
   
-﹏﹏﹏﹏﹏﹏﹏
+•·················•·················•
 
 
 

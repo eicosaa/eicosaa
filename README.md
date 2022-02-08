@@ -56,10 +56,10 @@
 <br/>
 
 
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eicosaa&show_icons=true&count_private=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eicosaa)](https://github.com/anuraghazra/github-readme-stats)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
 <!--
 **eicosaa/eicosaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,7 @@
 <div align = "center">
 
 <br/>
-<strong>🌱I want to be a developer🌱</strong>
+<strong>🌱I want to be a developer🌱</strong><br>
  - I'm learning Java and Spring right now.
  <br><br><br>
 

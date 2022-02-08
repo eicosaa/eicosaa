@@ -6,9 +6,9 @@
 <div align = "center">
 
 <br/>
-<strong>🌱학생🌱</strong><br><br>
-📜 Portfolio : <br>
-📝 Blog : <br>
+<strong>🌱I want to be a developer🌱</strong><br><br>
+📜 Portfolio : x <br>
+📝 Blog : x <br>
 📫 Contact & email : fomalhaut612@naver.com<br><br>
  
  

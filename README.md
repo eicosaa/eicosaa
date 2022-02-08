@@ -7,7 +7,7 @@
 
 <br/>
 <strong>🌱I want to be a developer🌱</strong><br><br>
-📜 Portfolio : x <br>
+👩‍💻 Portfolio : x <br>
 📝 Blog : x <br>
 📫 Contact & email : fomalhaut612@naver.com<br><br>
  

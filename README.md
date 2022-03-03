@@ -29,7 +29,7 @@
 •·················•·················• ✨<strong>Tech Stacks</string>✨ •·················•·················•
 
  
- 🖤Front-End🖤<br>
+ Front-End<br>
  <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=Java&logoColor=white"/><br>
  
  

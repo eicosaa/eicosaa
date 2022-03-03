@@ -26,20 +26,20 @@
  
 
 
-•·················•·················• ✨Tech Stacks✨ •·················•·················•
+•·················•·················• ✨<strong>Tech Stacks</string>✨ •·················•·················•
 
 
- <strong>Front-End</string>
- <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=Java&logoColor=white"/>
- <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=Java&logoColor=white"/>
- 
- <strong>Back-End</string>
+ 🖤Front-End🖤
  <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=Java&logoColor=white"/>
  
- <strong>DevOps</string>
+ 
+ 🤍Back-End🤍
  <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=Java&logoColor=white"/>
  
- <strong>Collaboration & Tools</string>
+ 🖤<strong>DevOps</string>🖤
+ <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=Java&logoColor=white"/>
+ 
+ 🤍<strong>Collaboration & Tools</string>🤍
  <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=Java&logoColor=white"/>
  
  

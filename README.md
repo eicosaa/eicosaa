@@ -29,7 +29,16 @@
 •·················•·················• ✨Tech Stacks✨ •·················•·················•
 
 
-
+ <strong>Front-End</string>
+ 
+ <strong>Front-End</string>
+ 
+ <strong>Front-End</string>
+ 
+ <strong>Front-End</string>
+ 
+ 
+<!--
 <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-092E20?style=flat-square&logo=Spring&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -39,6 +48,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/eclipse-B7178C?style=flat-square&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/SqlDeveloper-FFCA28?style=flat-square&logo=Oracle&logoColor=black"/>
+-->
  
 <br>
  <br>

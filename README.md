@@ -28,17 +28,19 @@
 
 •·················•·················• ✨<strong>Tech Stacks</string>✨ •·················•·················•
 
-
+ <br>
  🖤Front-End🖤
  <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=Java&logoColor=white"/>
  
- 
+ <br>
  🤍Back-End🤍
  <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=Java&logoColor=white"/>
  
+ <br>
  🖤<strong>DevOps</string>🖤
  <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=Java&logoColor=white"/>
  
+ <br>
  🤍<strong>Collaboration & Tools</string>🤍
  <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=Java&logoColor=white"/>
  

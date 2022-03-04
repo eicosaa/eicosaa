@@ -42,7 +42,7 @@
  <img src="https://img.shields.io/badge/SqlDeveloper-FFCA28?style=flat-square&logo=Oracle&logoColor=black"/><br>
  
  
- 🤍<strong>Collaboration & Tools</string>🤍<br>
+ 🤍Collaboration & Tools🤍<br>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
  <img src="https://img.shields.io/badge/tomcat-007396?style=flat-square&logo=tomcat&logoColor=white"/>
  <img src="https://img.shields.io/badge/SqlDeveloper-FFCA28?style=flat-square&logo=Oracle&logoColor=black"/>

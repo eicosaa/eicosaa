@@ -30,9 +30,9 @@
 
  
  🖤Front-End🖤<br>
- <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=black"/>
+ <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=black"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
  <br>
  
  🤍Back-End🤍<br>
@@ -41,23 +41,24 @@
  <br>
  
  🖤DevOps🖤<br>
- <img src="https://img.shields.io/badge/SqlDeveloper-FFCA28?style=flat-square&logo=Oracle&logoColor=black"/>
+ <img src="https://img.shields.io/badge/SqlDeveloper-FFCA28?style=flat-square&logo=Oracle&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
+ <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
  <br>
  
  
  🤍Collaboration & Tools🤍<br>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
  <img src="https://img.shields.io/badge/tomcat-007396?style=flat-square&logo=tomcat&logoColor=white"/>
- <img src="https://img.shields.io/badge/SqlDeveloper-FFCA28?style=flat-square&logo=Oracle&logoColor=black"/>
+ <img src="https://img.shields.io/badge/SqlDeveloper-FFCA28?style=flat-square&logo=Oracle&logoColor=white"/>
  <img src="https://img.shields.io/badge/eclipse-B7178C?style=flat-square&logo=eclipse&logoColor=white"/>
  <br>
  
 <!--
  🖤Database🖤
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=black"/>
  -->
  수정 중
  

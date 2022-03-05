@@ -19,7 +19,8 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eicosaa)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
  
 
@@ -61,16 +62,26 @@
  -->
  수정 중
  
+</div>
+
+
+
+<br/>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eicosaa&show_icons=true&count_private=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eicosaa)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
-   <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:fomalhaut6122@gmail.com" target="_blank"><img src="https://img.shields.io/badge/fomalhaut6122@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+   <a href="http://blog.-------.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+   <a href="http://blog.-------.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Undertale&logoColor=white"/></a>
+
   <a href="mailto:fomalhaut612@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-83B81A?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:fomalhaut6122@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- 
-  <p>
-  <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Undertale&logoColor=white"/></a>
-  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- </p>
+  <a href="mailto:fomalhaut6122@gmail.com" target="_blank"><img src="https://img.shields.io/badge/fomalhaut6122@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>   </a>
+
 
 <img src="https://img.shields.io/badge/tomcat-F8DC75?style=flat-square&logo=tomcat&logoColor=white"/>
 
@@ -84,20 +95,9 @@
 <img src="https://img.shields.io/badge/eclipse-B7178C?style=flat-square&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/SqlDeveloper-FFCA28?style=flat-square&logo=Oracle&logoColor=black"/>
 -->
- 
-<br>
- <br>
-</div>
 
 
 
-<br/>
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eicosaa&show_icons=true&count_private=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eicosaa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **eicosaa/eicosaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

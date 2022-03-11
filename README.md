@@ -71,8 +71,10 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eicosaa&show_icons=true&count_private=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eicosaa)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eicosaa&show_icons=true&count_private=true&hide=contribs,issues&theme=flag-india) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eicosaa&layout=compact&theme=flag-india)
+
+
 
 <!--
    <a href="http://blog.-------.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -82,6 +84,9 @@
   <a href="mailto:fomalhaut6122@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:fomalhaut6122@gmail.com" target="_blank"><img src="https://img.shields.io/badge/fomalhaut6122@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>   </a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eicosaa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eicosaa&theme=flag-india)
+&theme=buefy, &theme=swift
 
 <img src="https://img.shields.io/badge/tomcat-F8DC75?style=flat-square&logo=tomcat&logoColor=white"/>
 

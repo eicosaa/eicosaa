@@ -71,7 +71,7 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eicosaa&show_icons=true&count_private=true&hide=contribs,issues&theme=flag-india) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eicosaa&show_icons=true&count_private=true&theme=flag-india) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eicosaa&theme=flag-india)
 
 
@@ -85,6 +85,8 @@
   <a href="mailto:fomalhaut612@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-83B81A?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:fomalhaut6122@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:fomalhaut6122@gmail.com" target="_blank"><img src="https://img.shields.io/badge/fomalhaut6122@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>   </a>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eicosaa&show_icons=true&count_private=true&hide=contribs,issues&theme=flag-india) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eicosaa&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eicosaa&theme=flag-india)

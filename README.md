@@ -72,7 +72,8 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eicosaa&show_icons=true&count_private=true&hide=contribs,issues&theme=flag-india) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eicosaa&theme=flag-india)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eicosaa&layout=compact&theme=flag-india)
+
 
 
 

@@ -56,7 +56,7 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
  <img src="https://img.shields.io/badge/tomcat-007396?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
  <img src="https://img.shields.io/badge/SqlDeveloper-FFCA28?style=flat-square&logo=Oracle&logoColor=white"/>
- <img src="https://img.shields.io/badge/eclipse-B7178C?style=flat-square&logo=eclipse&logoColor=white"/>
+ <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/> <!--B7178C-->
  <br>
  
  

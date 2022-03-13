@@ -13,7 +13,7 @@
 📝 Blog : x <br>
 📫 Contact & email : fomalhaut612@naver.com<br><br>
  
-  <a href="http://blog.-------.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Undertale&logoColor=white"/></a>
+  <a href="http://blog.-------.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-9F55FF?style=flat-square&logo=Undertale&logoColor=white"/></a> <!--DD0B78-->
   <a href="mailto:fomalhaut612@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-83B81A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="mailto:fomalhaut6122@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   

@@ -68,7 +68,16 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feicosaa%2Fhit-counter&count_bg=%239A6AFF&title_bg=%23555555&icon=apachespark.svg&icon_color=%23FFDD3C&title=hits&edge_flat=false)
  
  수정 중
+
  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=eicosaa&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/eicosaa"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
  
 </div>
